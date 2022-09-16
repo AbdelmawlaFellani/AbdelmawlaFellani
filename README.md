@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelmawlaFellani
-- 👀 I’m interested in Making Mobile apps, Front-end things. and looking forward to Games developement too :3
-- 🌱 I’m currently learning JavaScript and React/React Native, used to create android apps(with Java using android studio)
-but now i'm looking forward to see what javascript and Flutter(Dart) look like.
+- 👀 I’m interested in Making Mobile apps, Front-end things. and looking forward to Game developement too :3
+- 🌱 I’m currently learning JavaScript and React/NextJs, used to create android apps(with Java using android studio)
+but now i'm looking forward to become a Full Stack Developer or a MERN Stack Developer .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 My facebook => https://www.facebook.com/abdo.foullani.3
