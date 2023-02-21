@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm AbdelmawlaFellani</h1>
 <h3 align="center">ALX Software Engineering Student from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmawlafellani&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmawlafellani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelmawlafellani&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmawlafellani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fellaniabdelma1" target="blank"><img src="https://img.shields.io/twitter/follow/fellaniabdelma1?logo=twitter&style=for-the-badge" alt="fellaniabdelma1" /></a> </p>
+<p align="center"> <a href="https://twitter.com/fellaniabdelma1" target="blank"><img src="https://img.shields.io/twitter/follow/fellaniabdelma1?logo=twitter&style=for-the-badge" alt="fellaniabdelma1" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering Program**
 - 👀 I’m interested in Front-end Things and I'm keeping an eye on Making Mobile Apps. and looking forward to Game developement too :3
