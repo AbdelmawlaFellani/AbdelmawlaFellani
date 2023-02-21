@@ -16,8 +16,8 @@
 <p align="center">
 <a href="https://codepen.io/jixter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fellani abdelmawla" height="30" width="40" /></a>
 <a href="https://twitter.com/fellaniabdelma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fellaniabdelma1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelmawla fellani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmawla fellani" height="30" width="40" /></a>
-<a href="https://fb.com/abdelmawla fellani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelmawla fellani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelmawla-fellani-68026b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmawla fellani" height="30" width="40" /></a>
+<a href="https://fb.com/abdo.foullani.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelmawla fellani" height="30" width="40" /></a>
 <a href="https://instagram.com/abdo_fellani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdo_fellani" height="30" width="40" /></a>
 </p>
 
