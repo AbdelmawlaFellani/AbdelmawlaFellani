@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelmawlafellani&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmawlafellani" /> </p>
 
-<p align="center"> <a href="https://twitter.com/fellaniabdelma1" target="blank"><img src="https://img.shields.io/twitter/follow/fellaniabdelma1?logo=twitter&style=for-the-badge" alt="fellaniabdelma1" /></a> </p>
+<p align="center"> <a href="https://twitter.com/abdo_fellani" target="blank"><img src="https://img.shields.io/twitter/follow/abdo_fellani?logo=twitter&style=for-the-badge" alt="abdo_fellani" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering Program**
 - 👀 I’m interested in Front-end Things and I'm keeping an eye on Making Mobile Apps. and looking forward to Game developement too :3
@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/jixter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fellani abdelmawla" height="30" width="40" /></a>
-<a href="https://twitter.com/fellaniabdelma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fellaniabdelma1" height="30" width="40" /></a>
+<a href="https://twitter.com/abdo_fellani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdo_fellani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelmawla-fellani-68026b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmawla fellani" height="30" width="40" /></a>
 <a href="https://fb.com/abdo.foullani.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelmawla fellani" height="30" width="40" /></a>
 <a href="https://instagram.com/abdo_fellani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdo_fellani" height="30" width="40" /></a>
