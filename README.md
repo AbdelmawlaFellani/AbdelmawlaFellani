@@ -45,7 +45,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmawlafellani&show_icons=true&theme=dark&title_color=ff8000&text_color=80ffff&bg_color=393939&locale=en&layout=compact" alt="abdelmawlafellani" />
 </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmawlafellani&show_icons=true&theme=radical&title_color=ff8000&text_color=050505&bg_color=FFFFFF&locale=en" alt="abdelmawlafellani" /> </p>
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmawlafellani&show_icons=true&theme=radical&title_color=ff8000&text_color=050505&bg_color=FFFFFF&locale=en" alt="abdelmawlafellani" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmawlafellani&theme=default" alt="abdelmawlafellani" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmawlafellani&theme=default" alt="abdelmawlafellani" /></p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
