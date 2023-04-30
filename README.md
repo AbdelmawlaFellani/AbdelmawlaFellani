@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **fellaniabdo@gmail.com**
 
+###### **My favorite quote:**
+> I'd rather make mistakes than make nothing at all.
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/jixter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fellani abdelmawla" height="30" width="40" /></a>
