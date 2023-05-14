@@ -45,12 +45,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-<!-- Commented Block of Code for not appearing reason uncommenting when it's fixed ...
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmawlafellani&show_icons=true&theme=dark&title_color=ff8000&text_color=80ffff&bg_color=393939&locale=en&layout=compact" alt="abdelmawlafellani" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmawlafellani&show_icons=true&theme=radical&title_color=ff8000&text_color=050505&bg_color=FFFFFF&locale=en" alt="abdelmawlafellani" /> </p>
 </br>
--->
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmawlafellani&theme=default" alt="abdelmawlafellani" /></p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
