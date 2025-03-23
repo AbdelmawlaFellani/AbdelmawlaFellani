@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/C4D16AQENBfdLpjAElA/profile-displaybackgroundimage-shrink_350_1400/0/1663170232407?e=1710979200&v=beta&t=V4KkBc7szmdESSx7xhos2rbrF425lHSGFbsWNrgYmCo](https://media.licdn.com/dms/image/v2/C4D16AQENBfdLpjAElA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1663170232407?e=1748476800&v=beta&t=EErDfSjJm6oxRdzby9GzJL-NQ_IXSJpJKlgc0rZt1bU))](https://www.linkedin.com/in/abdelmawla-fellani-68026b1b8/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQENBfdLpjAElA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1663170232407?e=1748476800&v=beta&t=EErDfSjJm6oxRdzby9GzJL-NQ_IXSJpJKlgc0rZt1bU)](https://www.linkedin.com/in/abdelmawla-fellani-68026b1b8/)
 
 <h1 align="center">Hi 👋, I'm Abdelmawla Fellani</h1>
 <h3 align="center">ALX Software Engineering Student from Morocco</h3>
